@@ -1,0 +1,39 @@
+body{
+    background-color: #d6a4e0;
+}
+div{
+    margin-left: 500px;
+    width: 150px;
+}
+h1{
+    text-align: center;
+    margin-top: 10rem;
+    color: black;
+
+}
+input{
+    width: 250px;
+    height: 50px;
+    background-color:#dfe9b1;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: bolder;
+    border: 3px solid black;
+    text-align: center;
+}
+button{
+    background-color: #98a6a5;
+    color: black;
+    width: 15vw;
+    height: 15vh;
+    font-weight: bolder;
+    height:10vh;
+    border: 3px solid black;
+}
+p{
+
+    margin-left: 5rem;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: #c92647;
+}
